@@ -103,7 +103,7 @@ Publications
     <div class="publication-info">
         Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation<br>
         S. Yoon, <b>H. Kweon</b>, J. Cho, S. Kim, K. Yoon<br>
-        <b>CVPR 2023</b><br>
+        <b>ECCV 2022</b><br>
         <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890323.pdf">[paper]</a> 
     </div>
 </div>
