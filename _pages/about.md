@@ -37,7 +37,7 @@ Publications
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/ao.PNG' alt='CVPR 2024' class="publication-image">
+    <img src='/images/ao.png' alt='CVPR 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
