@@ -120,3 +120,95 @@ Publications
     </div>
 </div>
 <br/>
+
+
+<style>
+    .publication-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .publication-image {
+        margin-right: 13px;
+        width: 250px; /* Default width */
+        height: 140px; /* Default height */
+    }
+
+    .publication-image-simulation {
+        margin-right: 13px;
+        width: 250px; /* Default width */
+        height: 190px; /* Default height */
+    }
+
+    .publication-image-narrow {
+        margin-right: 13px;
+        width: 180px; /* Default width */
+        height: 240px; /* Default height */
+    }
+
+    .publication-image-middle {
+        margin-right: 13px;
+        width: 205px; /* Default width */
+        height: 185px; /* Default height */
+    }
+
+    .publication-info {
+        flex-grow: 1; /* Allow text to expand */
+    }
+
+    /* Media query for smaller screens (e.g., mobile devices) */
+    @media (max-width: 1000px) {
+        .publication-image {
+            width: 150px; /* Adjusted width for smaller screens */
+            height: 84px; /* Adjusted height for smaller screens */
+        }
+    }
+
+    @media (max-width: 1000px) {
+        .publication-image-simulation {
+            width: 150px; /* Adjusted width for smaller screens */
+            height: 120px; /* Adjusted height for smaller screens */
+        }
+    }
+    
+    @media (max-width: 1000px) {
+        .publication-image-narrow {
+            width: 100px; /* Adjusted width for smaller screens */
+            height: 133px; /* Adjusted height for smaller screens */
+        }
+    }
+
+    @media (max-width: 1000px) {
+        .publication-image-middle {
+            width: 110px; /* Adjusted width for smaller screens */
+            height: 100px; /* Adjusted height for smaller screens */
+        }
+    }
+    
+</style>
+
+
+Selected Honors and Awards
+======
+- Reviewer of Top-tier Conferences / CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI 
+<br/>
+- Reviewer of Top-tier Journals / TPAMI, IJCV, CVIU
+<br/>
+- 2023 / Bronze prize in Samsung HumanTech Paper Awards 2023
+<br/>
+- 2023 / Bronze prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
+<br/>
+- 2022 / Gold prize in Best Paper Awards during IPIU 2022, 34th Workshop on Image Processing and Image Understanding
+<br/>
+- 2021 / Winning CVPRW 2021 DSEC challenge (event-only track)
+<br/>
+
+Projects
+======
+- 2020 ~ present / Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
+<br/>
+- 2021 ~ 2023 / AI Research for Intelligent X-ray Luggage Scanning System / X-ray imaging, object detection, weakly supervised object localization
+<br/>
+- 2021 ~ 2022 / Development of Situational Awareness System to Prevent Collisions and Accidents for Autonomous Ships / semantic segmentation, small object detection
+<br/>
+
