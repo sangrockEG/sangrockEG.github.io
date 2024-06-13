@@ -1,49 +1,144 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a 5th year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
+I am set to graduate in February 2025 and am actively seeking a postdoctoral or research position.
+<br/>
 
-A data-driven personal website
+I am dedicated to advancing the understanding and prediction of environmental data through innovative approaches that utilize minimal or weak annotations, significantly reducing the annotation burden.
+I have tackled a range of tasks such as semantic segmentation, data completion, and representation learning, consistently pushing the boundaries of these fields.
+My expertise spans various data modalities, including image, point cloud, and event data.
+<br/>
+
+My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240613.pdf)
+<br/>
+
+Publications (Computer Vision)
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div style="display: flex; align-items: center;">
+    <img src='/images/s2c.png' alt='CVPR 2024 Oral' class="publication-image">
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+    <!-- Text Content -->
+    <div class="publication-info">
+        From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation<br>
+        <b>H. Kweon</b>, K. Yoon<br>
+        <b>CVPR 2024 Oral (3.3% of accepted)</b><br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf">[paper]</a>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/ao.PNG' alt='CVPR 2024' class="publication-image">
 
-Getting started
+    <!-- Text Content -->
+    <div class="publication-info">
+        Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle<br>
+        <b>H. Kweon</b>, J. Kim, K. Yoon<br>
+        <b>CVPR 2024</b><br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_Weakly_Supervised_Point_Cloud_Semantic_Segmentation_via_Artificial_Oracle_CVPR_2024_paper.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/pc.png' alt='ICCV 2023' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Learning Point Cloud Completion without Complete Point Clouds: A Pose-aware Approach<br>
+        J. Kim, <b>H. Kweon</b>, Y. Yang, K. Yoon<br>
+        <b>ICCV 2023</b><br>
+        <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Learning_Point_Cloud_Completion_without_Complete_Point_Clouds_A_Pose-Aware_ICCV_2023_paper.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/acr.png' alt='CVPR 2023' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor<br>
+        <b>H. Kweon</b>, S. Yoon, K. Yoon<br>
+        <b>CVPR 2023</b><br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kweon_Weakly_Supervised_Semantic_Segmentation_via_Adversarial_Learning_of_Classifier_and_CVPR_2023_paper.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/pdis.png' alt='AAAI 2023' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Pixel-wise Warping for Deep Image Stitching<br>
+        <b>H. Kweon</b>, H. Kim, Y. Kang, Y. Yoon, W. Jeong, Yoon, K. Yoon<br>
+        <b>AAAI 2023</b><br>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25202">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/joint.png' alt='NeurIPS 2022' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Joint Learning of 2D-3D Weakly Supervised Semantic Segmentation<br>
+        <b>H. Kweon</b>, K. Yoon<br>
+        <b>NeurIPS 2022</b><br>
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/c4bf73386022473a652a18941e9ea6f8-Paper-Conference.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/mlae.png' alt='ECCV 2022' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation<br>
+        S. Yoon, <b>H. Kweon</b>, J. Cho, S. Kim, K. Yoon<br>
+        <b>CVPR 2023</b><br>
+        <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890323.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/oc_cse.png' alt='ICCV 2021' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation<br>
+        <b>H. Kweon</b>, S. Yoon, H. Kim, D. Park, K. Yoon<br>
+        <b>ICCV 2021</b><br>
+        <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf">[paper]</a> 
+    </div>
+</div>
+<br/>
+
+
+Selected Honors and Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Reviewer of Top-tier Conferences / CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI 
+<br/>
+- Reviewer of Top-tier Journals / TPAMI, IJCV, CVIU
+<br/>
+- 2023 / Bronze prize in Samsung HumanTech Paper Awards 2023
+<br/>
+- 2023 / Bronze prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
+<br/>
+- 2022 / Gold prize in Best Paper Awards during IPIU 2022, 34th Workshop on Image Processing and Image Understanding
+<br/>
+- 2021 / Winning CVPRW 2021 DSEC challenge (event-only track)
+<br/>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Projects
+======
+- 2020 ~ present / Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
+<br/>
+- 2021 ~ 2023 / AI Research for Intelligent X-ray Luggage Scanning System / X-ray imaging, object detection, weakly supervised object localization
+<br/>
+- 2021 ~ 2022 / Development of Situational Awareness System to Prevent Collisions and Accidents for Autonomous Ships / semantic segmentation, small object detection
+<br/>
