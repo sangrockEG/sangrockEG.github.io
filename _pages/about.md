@@ -31,7 +31,7 @@ Publications
     <div class="publication-info">
         Finding Meaning in Points: WSSS for Event Cameras<br>
         H. Cho*, S. Yoon*, <b>H. Kweon*</b>, K. Yoon<br>
-        <b>ECCV 2024 (3.3% of accepted)</b><br>
+        <b>ECCV 2024</b><br>
         <a href="https://arxiv.org/pdf/2407.11216">[paper]</a>
     </div>
 </div>
