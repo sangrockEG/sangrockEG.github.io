@@ -78,7 +78,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor<br>
-        <b>H. Kweon</b>, S. Yoon, K. Yoon<br>
+        <b>H. Kweon*</b>, S. Yoon*, K. Yoon<br>
         <b>CVPR 2023</b><br>
         <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kweon_Weakly_Supervised_Semantic_Segmentation_via_Adversarial_Learning_of_Classifier_and_CVPR_2023_paper.pdf">[paper]</a> 
     </div>
@@ -90,7 +90,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         Pixel-wise Warping for Deep Image Stitching<br>
-        <b>H. Kweon</b>, H. Kim, Y. Kang, Y. Yoon, W. Jeong, Yoon, K. Yoon<br>
+        <b>H. Kweon*</b>, H. Kim*, Y. Kang*, Y. Yoon*, W. Jeong, Yoon, K. Yoon<br>
         <b>AAAI 2023</b><br>
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25202">[paper]</a> 
     </div>
@@ -114,7 +114,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation<br>
-        S. Yoon, <b>H. Kweon</b>, J. Cho, S. Kim, K. Yoon<br>
+        S. Yoon*, <b>H. Kweon*</b>, J. Cho, S. Kim, K. Yoon<br>
         <b>ECCV 2022</b><br>
         <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890323.pdf">[paper]</a> 
     </div>
@@ -126,7 +126,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation<br>
-        <b>H. Kweon</b>, S. Yoon, H. Kim, D. Park, K. Yoon<br>
+        <b>H. Kweon*</b>, S. Yoon*, H. Kim, D. Park, K. Yoon<br>
         <b>ICCV 2021</b><br>
         <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf">[paper]</a> 
     </div>
