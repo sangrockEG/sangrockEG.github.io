@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including image, point cloud, and event data.
 <br/>
 
-My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240613.pdf)
+My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240801.pdf)
 <br/>
 
 
@@ -24,6 +24,18 @@ My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv
 
 Publications
 ======
+<div style="display: flex; align-items: center;">
+    <img src='/images/fip.png' alt='ECCV 2024' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Finding Meaning in Points: WSSS for Event Cameras<br>
+        H. Cho*, S. Yoon*, <b>H. Kweon*</b>, K. Yoon<br>
+        <b>ECCV 2024 (3.3% of accepted)</b><br>
+        <a href="https://arxiv.org/pdf/2407.11216">[paper]</a>
+    </div>
+</div>
+<br/>
 <div style="display: flex; align-items: center;">
     <img src='/images/s2c.png' alt='CVPR 2024 Oral' class="publication-image">
 
@@ -42,7 +54,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle<br>
-        <b>H. Kweon</b>, J. Kim, K. Yoon<br>
+        <b>H. Kweon*</b>, J. Kim*, K. Yoon<br>
         <b>CVPR 2024</b><br>
         <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_Weakly_Supervised_Point_Cloud_Semantic_Segmentation_via_Artificial_Oracle_CVPR_2024_paper.pdf">[paper]</a> 
     </div>
