@@ -25,7 +25,7 @@ My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv
 Publications
 ======
 <div style="display: flex; align-items: center;">
-    <img src='/images/los.png' alt='NeurIPS 2024' class="publication-image">
+    <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
