@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including image, point cloud, and event data.
 <br/>
 
-My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240801.pdf)
+My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_241001.pdf)
 <br/>
 
 
@@ -24,6 +24,18 @@ My CV can be found [here.](https://sangrockeg.github.io/assets/hyeokjun_kweon_cv
 
 Publications
 ======
+<div style="display: flex; align-items: center;">
+    <img src='/images/los.png' alt='NeurIPS 2024' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
+        H. Jang*, J. Kim*, <b>H. Kweon*</b>, K. Yoon<br>
+        <b>NeurIPS 2024</b><br>
+        <a href="TBD">[paper]</a>
+    </div>
+</div>
+<br/>
 <div style="display: flex; align-items: center;">
     <img src='/images/fip.png' alt='ECCV 2024' class="publication-image">
 
