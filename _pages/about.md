@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including image, point cloud, and event data.
 <br/>
 
-My CV can be found [here.](https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241001.pdf)
+My CV can be found [here.](https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf)
 <br/>
 
 
