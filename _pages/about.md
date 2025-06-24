@@ -26,6 +26,19 @@ Prospective students are encouraged to visit our lab website or contact me direc
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/wish.png' alt='CVPR 2025' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels<br>
+        <b>H. Kweon*</b>, K. Yoon<br>
+        <b>CVPR 2025 Highlight (Top 2.6% of submissions)</b><br>
+        <a href="TBD">[paper]</a>
+    </div>
+</div>
+<br/>
+
+<div style="display: flex; align-items: center;">
     <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
 
     <!-- Text Content -->
@@ -56,7 +69,7 @@ Publications
     <div class="publication-info">
         From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation<br>
         <b>H. Kweon</b>, K. Yoon<br>
-        <b>CVPR 2024 Oral (3.3% of accepted)</b><br>
+        <b>CVPR 2024 Oral (Top 0.8% of submissions)</b><br>
         <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf">[paper]</a>
     </div>
 </div>
