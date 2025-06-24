@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
-I am set to graduate in February 2025 and am actively seeking a postdoctoral or research position.
+I am currently an Assistant Professor at the Graduate School of Advanced Imaging Science, Multimedia & Film at Chung-Ang University, specializing in computer vision and artificial intelligence. 
+I received my B.S., M.S., and Ph.D. degrees in Mechanical Engineering from KAIST (Korea Advanced Institute of Science and Technology), where I conducted my doctoral research under the supervision of Prof. Kuk-Jin Yoon at the Visual Intelligence Lab (VILab). 
 <br/>
 
-I am dedicated to advancing the understanding and prediction of environmental data through innovative approaches that utilize minimal or weak annotations, significantly reducing the annotation burden.
-I have tackled a range of tasks such as semantic segmentation, data completion, and representation learning, consistently pushing the boundaries of these fields.
-My expertise spans various data modalities, including image, point cloud, and event data.
+My research is driven by a commitment to reducing the annotation burden in visual recognition tasks by leveraging minimal or weak supervision. 
+I have worked extensively on problems such as semantic segmentation, data completion, and representation learning across diverse sensing modalities including images, point clouds, and event-based data. 
+My work aims to bridge the gap between real-world data constraints and high-performance learning systems through principled, scalable methods.
+My CV is available [here](https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf).
 <br/>
 
-My CV can be found [here.](https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf)
+I lead the Foundational Intelligence & Vision (FIV) Lab, where we explore fundamental and applied research topics at the intersection of vision perception, data science, and foundation model.
+We are currently looking for highly motivated graduate and undergraduate students who are passionate about computer vision and deep learning. 
+Prospective students are encouraged to visit our lab website or contact me directly for more information.
 <br/>
-
-
 
 
 Publications
