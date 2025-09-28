@@ -14,7 +14,7 @@ I received my B.S., M.S., and Ph.D. degrees in Mechanical Engineering from KAIST
 My research is driven by a commitment to reducing the annotation burden in visual recognition tasks by leveraging minimal or weak supervision. 
 I have worked extensively on problems such as semantic segmentation, data completion, and representation learning across diverse sensing modalities including images, point clouds, and event-based data. 
 My work aims to bridge the gap between real-world data constraints and high-performance learning systems through principled, scalable methods.
-My CV is available [here](https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf).
+My CV is available [here](https://github.com/sangrockEG/sangrockEG.github.io/blob/master/assets/cv_hyeokjunkweon_250826.pdf).
 <br/>
 
 I lead the [Foundational Intelligence & Vision Laboratory (FIV Lab)](https://fiv.cau.ac.kr), where we explore fundamental and applied research topics at the intersection of vision perception, data science, and foundation model.
