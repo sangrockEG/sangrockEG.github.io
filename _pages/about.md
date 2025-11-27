@@ -17,7 +17,7 @@ My work aims to bridge the gap between real-world data constraints and high-perf
 My CV is available [here](https://github.com/sangrockEG/sangrockEG.github.io/blob/master/assets/cv_hyeokjunkweon_250826.pdf).
 <br/>
 
-I lead the [Foundational Intelligence & Vision Laboratory (FIV Lab)](https://fiv.cau.ac.kr), where we explore fundamental and applied research topics at the intersection of vision perception, data science, and foundation model.
+I lead the [Foundational Vision Laboratory (FoVLab)](https://fovlab.cau.ac.kr), where we explore fundamental and applied research topics at the intersection of vision perception, data science, and foundation model.
 We are currently looking for highly motivated graduate and undergraduate students who are passionate about computer vision and deep learning. 
 Prospective students are encouraged to visit our lab website or contact me directly for more information.
 <br/>
